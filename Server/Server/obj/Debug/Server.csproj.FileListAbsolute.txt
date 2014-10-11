@@ -1,0 +1,16 @@
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.exe
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.pdb
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\bin\Debug\Server.exe
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\bin\Debug\Server.pdb
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.frmServer.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\chatlan\chat\Server\Server\obj\Debug\Server.exe
+C:\chatlan\chat\Server\Server\obj\Debug\Server.pdb
+C:\chatlan\chat\Server\Server\bin\Debug\Server.exe
+C:\chatlan\chat\Server\Server\bin\Debug\Server.pdb
+C:\chatlan\chat\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\chatlan\chat\Server\Server\obj\Debug\Server.frmServer.resources
+C:\chatlan\chat\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\chatlan\chat\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache

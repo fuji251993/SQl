@@ -1,0 +1,24 @@
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.exe
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.pdb
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\bin\Debug\Client.exe
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\bin\Debug\Client.pdb
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmAdd.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmChat.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmDelete.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmInvite.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmInviteAnother.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.frmMain.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\chatlan\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\chatlan\chat\Client\Client\obj\Debug\Client.exe
+C:\chatlan\chat\Client\Client\obj\Debug\Client.pdb
+C:\chatlan\chat\Client\Client\bin\Debug\Client.exe
+C:\chatlan\chat\Client\Client\bin\Debug\Client.pdb
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmAdd.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmChat.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmDelete.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmInvite.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmInviteAnother.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.frmMain.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\chatlan\chat\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
